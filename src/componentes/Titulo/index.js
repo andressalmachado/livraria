@@ -8,5 +8,4 @@ export const Titulo = styled.h2`
   font-size: ${(props) => props.tamanhoFonte || "18px"};
   text-align: ${(props) => props.alinhamento || "center"};
   margin: 0;
-  text-transform: uppercase;
 `;
