@@ -12,11 +12,15 @@ const UltimosLancamentosContainer = styled.section`
 `;
 
 const NovosLivrosContainer = styled.div`
-  margin-top: 30px;
+  margin: 30px 0;
   display: flex;
   width: 100%;
   justify-content: center;
   cursor: pointer;
+
+  img {
+    margin-left: 20px;
+  }
 `;
 
 function UltimosLancamentos() {
