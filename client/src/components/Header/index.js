@@ -1,4 +1,4 @@
-import Logo from ".././Logo";
+import Logo from "../Logo";
 import OpcoesHeader from "../OpcoesHeader";
 import IconesHeader from "../IconesHeader";
 import styled from "styled-components";
